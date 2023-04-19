@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+ <description>Bombing range near KJMS </description>  
+
+<!--Targets-->
+
+ <scenario>
+  <name>KJMS Bombing Range</name>
+  <description>
+     Places static targets in the .
+  </description>
+
+  <entry>
+   <type>ship</type>
+   <name>target01</name>
+   <model>Aircraft/depot/Models/hangar_25x25m_tan.ac</model>
+   <latitude type="double">46.931592</latitude>
+   <longitude type="double">-98.667117</longitude>
+   <heading type="double">-95</heading>
+   <altitude type="double">1498</altitude>
+  </entry>
+  
+  <entry>
+   <type>ship</type>
+   <name>target02</name>
+   <model>Models/Military/EHVK_shelter.ac</model>
+   <latitude>46.930318</latitude>
+   <longitude>-98.669339</longitude>
+   <heading>0</heading>
+   <altitude>1498</altitude>
+  </entry>
+
+  <entry>
+   <type>ship</type>
+   <name>target03</name>
+   <model>Aircraft/depot/Models/hangar_25x25m_tan.ac</model>
+   <latitude>46.929288</latitude>
+   <longitude>-98.667884</longitude>
+   <heading>0</heading>
+   <altitude>1498</altitude>
+  </entry>
+
+  <entry>
+   <type>ship</type>
+   <name>target04</name>
+   <model>Aircraft/depot/Models/hangar_25x25m_tan.ac</model>
+   <latitude>46.929136</latitude>
+   <longitude>-98.673034</longitude>
+   <heading>90</heading>
+   <altitude>1498</altitude>
+  </entry>
+
+  <entry>
+   <type>ship</type>
+   <name>target05</name>
+   <model>Aircraft/depot/Models/hangar_25x25m_tan.ac</model>
+   <latitude>46.930469</latitude>
+   <longitude>-98.664298</longitude>
+   <heading>0</heading>
+   <altitude>1498</altitude>
+  </entry>
+
+  <entry>
+   <type>ship</type>
+   <name>target06</name>
+   <model>Scenery/Models/Military/us-hush-house-hangar-sand.xml</model>
+   <latitude>46.932797</latitude>
+   <longitude>-98.665158</longitude>
+   <heading>0</heading>
+   <altitude>1498</altitude>
+  </entry>
+
+  <entry>
+   <type>ship</type>
+   <name>target07</name>
+   <model>Aircraft/depot/Models/hangar_25x25m_tan.ac</model>
+   <latitude>35.285428</latitude>
+   <longitude>138.837775</longitude>
+   <heading>90</heading>
+   <altitude>1498</altitude>
+  </entry>
+
+  <entry>
+   <type>ship</type>
+   <name>target08</name>
+   <model>Scenery/Models/Military/SPAF_Barracks_3.xml</model>
+   <latitude>46.927531</latitude>
+   <longitude>-98.668931</longitude>
+   <heading>0</heading>
+   <altitude>1498</altitude>
+  </entry>
+
+  <entry>
+   <type>ship</type>
+   <name>target09</name>
+   <model>Aircraft/depot/Models/hangar_25x25m_tan.ac</model>
+   <latitude>46.92949</latitude>
+   <longitude>-98.665489</longitude>
+   <heading>0</heading>
+   <altitude>1498</altitude>
+  </entry>
+
+  <entry>
+   <type>ship</type>
+   <name>target10</name>
+   <model>Aircraft/depot/Models/hangar_25x25m_tan.ac</model>
+   <latitude>46.932074</latitude>
+   <longitude>-98.661518</longitude>
+   <heading>0</heading>
+   <altitude>1498</altitude>
+  </entry>
+
+ </scenario>
+
+</PropertyList>
