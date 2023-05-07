@@ -112,6 +112,195 @@
    <altitude>1498</altitude>
   </entry>
 
+  <entry>
+   <type>ship</type>
+   <name>target06</name>
+   <model>Aircraft/targets/Bradle/Bradle.ac</model>
+   <latitude type="double">46.958532</latitude>
+   <longitude type="double">-98.675766</longitude>
+   <heading type="double">-95</heading>
+   <altitude type="double">1498</altitude>
+  </entry>
+  
+  <entry>
+   <type>ship</type>
+   <name>target07</name>
+   <model>Aircraft/targets/buffalo/buffalo.ac</model>
+   <latitude>46.960589</latitude>
+   <longitude>-98.617580</longitude>
+   <heading>0</heading>
+   <altitude>1498</altitude>
+  </entry>
+
+  <entry>
+   <type>ship</type>
+   <name>convoy</name>
+   <model>Aircraft/targets/FV107/scimitar.ac</model>
+   <latitude>46.892412</latitude>
+   <longitude>-98.657297</longitude>
+   <heading>270</heading>
+   <altitude>1498</altitude>
+  </entry>
+
+  <entry>
+   <type>ship</type>
+   <name>convoy1</name>
+   <model>Aircraft/targets/M1-Abrams/m1.ac</model>
+   <latitude>46.892391</latitude>
+   <longitude>-98.656999</longitude>
+   <heading>270</heading>
+   <altitude>1498</altitude>
+  </entry>
+
+  <entry>
+   <type>ship</type>
+   <name>convoy2</name>
+   <model>Aircraft/targets/M1-Abrams/m1.ac</model>
+   <latitude>46.892391</latitude>
+   <longitude>-98.656660</longitude>
+   <heading>270</heading>
+   <altitude>1498</altitude>
+  </entry>
+
+  <entry>
+   <type>ship</type>
+   <name>convoy3</name>
+   <model>Aircraft/targets/M1-Abrams/m1.ac</model>
+   <latitude>46.892384</latitude>
+   <longitude>-98.656393</longitude>
+   <heading>270</heading>
+   <altitude>1498</altitude>
+  </entry>
+  
+  <entry>
+   <type>ship</type>
+   <name>convoy4</name>
+   <model>Aircraft/targets/M1-Abrams/m1.ac</model>
+   <latitude>46.892384</latitude>
+   <longitude>-98.656044</longitude>
+   <heading>270</heading>
+   <altitude>1498</altitude>
+  </entry>
+
+  <entry>
+   <type>ship</type>
+   <name>convoy5</name>
+   <model>Aircraft/targets/M1-Abrams/m1.ac</model>
+   <latitude>46.892384</latitude>
+   <longitude>-98.655684</longitude>
+   <heading>270</heading>
+   <altitude>1498</altitude>
+  </entry>
+  
+   <entry>
+   <type>ship</type>
+   <name>convoy6</name>
+   <model>Aircraft/targets/M1-Abrams/m1.ac</model>
+   <latitude>46.892384</latitude>
+   <longitude>-98.655417</longitude>
+   <heading>270</heading>
+   <altitude>1498</altitude>
+  </entry>
+
+  <entry>
+   <type>ship</type>
+   <name>convoy7</name>
+   <model>Aircraft/targets/M1-Abrams/m1.ac</model>
+   <latitude>46.892391</latitude>
+   <longitude>-98.655160</longitude>
+   <heading>270</heading>
+   <altitude>1498</altitude>
+  </entry>
+  
+  <entry>
+   <type>ship</type>
+   <name>convoy8</name>
+   <model>Aircraft/targets/M1-Abrams/m1.ac</model>
+   <latitude>46.892384</latitude>
+   <longitude>-98.654934</longitude>
+   <heading>270</heading>
+   <altitude>1498</altitude>
+  </entry>
+
+  <entry>
+   <type>ship</type>
+   <name>convoy9</name>
+   <model>Aircraft/targets/M1-Abrams/m1.ac</model>
+   <latitude>46.892384</latitude>
+   <longitude>-98.654565</longitude>
+   <heading>270</heading>
+   <altitude>1498</altitude>
+  </entry>
+
+  <entry>
+   <type>ship</type>
+   <name>target10</name>
+   <model>Aircraft/depot/Models/hangar_25x25m_tan.ac</model>
+   <latitude>46.930469</latitude>
+   <longitude>-98.664298</longitude>
+   <heading>0</heading>
+   <altitude>1498</altitude>
+  </entry>
+
+  <entry>
+   <type>ship</type>
+   <name>target05</name>
+   <model>Aircraft/depot/Models/hangar_25x25m_tan.ac</model>
+   <latitude>46.893639</latitude>
+   <longitude>-98.658843</longitude>
+   <heading>0</heading>
+   <altitude>1498</altitude>
+  </entry>
+
+  <entry>
+   <type>ship</type>
+   <name>target06</name>
+   <model>Scenery/Models/Military/us-hush-house-hangar-sand.xml</model>
+   <latitude>46.894508</latitude>
+   <longitude>-98.655209</longitude>
+   <heading>0</heading>
+   <altitude>1498</altitude>
+  </entry>
+
+  <entry>
+   <type>ship</type>
+   <name>target07</name>
+   <model>Aircraft/depot/Models/hangar_25x25m_tan.ac</model>
+   <latitude>35.285428</latitude>
+   <longitude>138.837775</longitude>
+   <heading>90</heading>
+   <altitude>1498</altitude>
+  </entry>
+
+  <entry>
+   <type>ship</type>
+   <name>target08</name>
+   <model>Scenery/Models/Military/SPAF_Barracks_3.xml</model>
+   <latitude>46.895029</latitude>
+   <longitude>-98.658454</longitude>
+   <heading>0</heading>
+   <altitude>1498</altitude>
+  </entry>
+
+  <entry>
+   <type>ship</type>
+   <name>target09</name>
+   <model>Aircraft/depot/Models/hangar_25x25m_tan.ac</model>
+   <latitude>46.894498</latitude>
+   <longitude>-98.654671</longitude>
+   <heading>0</heading>
+   <altitude>1498</altitude>
+  </entry>
+
+  <entry>
+   <type>ship</type>
+   <name>target11</name>
+   <model>Aircraft/depot/Models/hangar_25x25m_tan.ac</model>
+   <latitude>46.895652</latitude>
+   <longitude>-98.653564</longitude>
+   <heading>0</heading>
+   <altitude>1498</altitude>
+  </entry>
  </scenario>
 
 </PropertyList>
